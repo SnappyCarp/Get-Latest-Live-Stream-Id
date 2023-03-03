@@ -16,3 +16,5 @@ def GetLastestStreamId():
         
     except Exception as error:
         print(f'Error {error}')
+        
+GetLastestStreamId
