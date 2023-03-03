@@ -2,8 +2,8 @@ import requests
 import re
 
 
-
-url = 'https://www.youtube.com/@hhazem/streams'
+#Enter Channel Url Here(Must End With /streams)
+url = 'https://www.youtube.com/@LofiGirl/streams'
 
 
 def GetLastestStreamId():
